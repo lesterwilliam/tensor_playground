@@ -1,7 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="be7b8fb2-2a76-40da-ac6f-185385d3c548" name="Default Changelist" comment="" />
+    <list default="true" id="be7b8fb2-2a76-40da-ac6f-185385d3c548" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/tensor_playground.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/tensor_playground.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pycharm_project/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pycharm_project/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -17,7 +22,52 @@
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
-    <property name="settings.editor.selected.configurable" value="preferences.general" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/pycharm_project/main.py" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="PythonConfigurationType" factoryName="Python">
+      <module name="tensor_playground" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="F:\Pycharm workspace\tensor_playground\pycharm_project\venv\Scripts\python.exe" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="main" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
+      <module name="tensor_playground" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/pycharm_project" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/pycharm_project/main.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
@@ -31,9 +81,37 @@
     <servers />
   </component>
   <component name="WindowStateProjectService">
-    <state x="1060" y="447" key="FileChooserDialogImpl" timestamp="1600106506826">
+    <state x="734" y="360" width="1092" height="714" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1600109378839">
       <screen x="0" y="0" width="2560" height="1410" />
     </state>
-    <state x="1060" y="447" key="FileChooserDialogImpl/0.0.2560.1410@0.0.2560.1410" timestamp="1600106506826" />
+    <state x="734" y="360" width="1092" height="714" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.2560.1410@0.0.2560.1410" timestamp="1600109378839" />
+    <state x="1147" y="472" width="757" height="790" key="EnvironmentVariablesDialog" timestamp="1600109366179">
+      <screen x="0" y="0" width="2560" height="1410" />
+    </state>
+    <state x="1147" y="472" width="757" height="790" key="EnvironmentVariablesDialog/0.0.2560.1410@0.0.2560.1410" timestamp="1600109366179" />
+    <state x="1060" y="447" key="FileChooserDialogImpl" timestamp="1600109309285">
+      <screen x="0" y="0" width="2560" height="1410" />
+    </state>
+    <state x="1060" y="447" key="FileChooserDialogImpl/0.0.2560.1410@0.0.2560.1410" timestamp="1600109309285" />
+    <state width="2539" height="404" key="GridCell.Tab.0.bottom" timestamp="1600108307954">
+      <screen x="0" y="0" width="2560" height="1410" />
+    </state>
+    <state width="2539" height="404" key="GridCell.Tab.0.bottom/0.0.2560.1410@0.0.2560.1410" timestamp="1600108307954" />
+    <state width="2539" height="404" key="GridCell.Tab.0.center" timestamp="1600108307954">
+      <screen x="0" y="0" width="2560" height="1410" />
+    </state>
+    <state width="2539" height="404" key="GridCell.Tab.0.center/0.0.2560.1410@0.0.2560.1410" timestamp="1600108307954" />
+    <state width="2539" height="404" key="GridCell.Tab.0.left" timestamp="1600108307953">
+      <screen x="0" y="0" width="2560" height="1410" />
+    </state>
+    <state width="2539" height="404" key="GridCell.Tab.0.left/0.0.2560.1410@0.0.2560.1410" timestamp="1600108307953" />
+    <state width="2539" height="404" key="GridCell.Tab.0.right" timestamp="1600108307954">
+      <screen x="0" y="0" width="2560" height="1410" />
+    </state>
+    <state width="2539" height="404" key="GridCell.Tab.0.right/0.0.2560.1410@0.0.2560.1410" timestamp="1600108307954" />
+    <state x="781" y="350" key="SettingsEditor" timestamp="1600109320834">
+      <screen x="0" y="0" width="2560" height="1410" />
+    </state>
+    <state x="781" y="350" key="SettingsEditor/0.0.2560.1410@0.0.2560.1410" timestamp="1600109320834" />
   </component>
 </project>
